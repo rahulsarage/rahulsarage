@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Technology, Web Development & Web 3.0
 - 🌱 I’m currently learning Blockchain Technology & Web Development
 - 💞️ I’m looking to collaborate on Web applications 
-- 📫 How to reach me rahulsarage1@gmail.com
+- 📫 How to reach me rahulsarage17@gmail.com
 
 <!---
 rahulsarage/rahulsarage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
